@@ -61,4 +61,4 @@
   }' "http://127.0.0.1:8000/team/<id>/"`
  
 * Delete a Team Member:
-  `curl -X DELETE "http://127.0.0.1:8000/team/<id>/`
+  `curl -X DELETE "http://127.0.0.1:8000/team/<id>/"`
