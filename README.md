@@ -1,5 +1,4 @@
 # Team Management
-==================
 
 ## Steps:
 
@@ -42,7 +41,6 @@
 
 
 # Calling the API
-=============
 
 * List all Team Members:
   `curl -X GET "http://127.0.0.1:8000/team/"`
